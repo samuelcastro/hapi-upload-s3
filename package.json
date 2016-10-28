@@ -3,7 +3,12 @@
   "description": "Upload files and images directly to s3",
   "homepage": "https://github.com/firstandthird/hapi-upload-s3",
   "author": "First+Third",
-  "version": "0.5.0",
+  "contributors": [{
+    "name": "Samuel Castro",
+    "email": "samuelcastrosilva@gmail.com",
+    "url": "https://github.com/samuelcastro"
+  }],
+  "version": "0.5.1",
   "repository": {
     "type": "git",
     "url": "https://github.com/firstandthird/hapi-upload-s3.git"
